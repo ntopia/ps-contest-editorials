@@ -1,6 +1,6 @@
 # pstopia
 
-Notes for Programming Contest
+Moved to https://github.com/pstopia/pstopia.github.io
 
 ## License
 
